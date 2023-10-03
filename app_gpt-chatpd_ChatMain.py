@@ -153,7 +153,7 @@ def main():
             #st.markdown("<h1 style='text-align: center; color: blue;'>Your one-stop solution for Medical policy queries</h1>", unsafe_allow_html=True)
     
     with col3:
-        st.image('Background.png')
+        st.image('Background_New.png')
 
 if __name__ == "__main__":
     main()
