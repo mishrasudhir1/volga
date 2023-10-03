@@ -5,3 +5,4 @@ plotly
 streamlit
 streamlit-chat
 streamlit-modal
+utils
