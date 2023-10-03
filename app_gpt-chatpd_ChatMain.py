@@ -154,7 +154,7 @@ def main():
     
     with col3:
         st.image('Background_New.png')
-        video_file = open('VolGA.mp4', 'rb',loop="true")
+        video_file = open('VolGA.mp4', 'rb')
         video_bytes = video_file.read()
 
         st.video(video_bytes)
