@@ -93,7 +93,7 @@ def display_conversation(history):
         message(history["generated"][i],key=str(i))
 
 def main():
-    set_png_as_page_bg('Background.png')
+    set_png_as_page_bg('Background_New.png')
     if "ButtonClick" not in st.session_state:
         st.session_state['ButtonClick']=0
 
